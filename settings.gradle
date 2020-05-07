@@ -1,0 +1,2 @@
+rootProject.name='AnncaVideoRecord'
+include ':app', ':annca_video_record'
